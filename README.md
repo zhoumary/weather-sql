@@ -7,5 +7,5 @@ Steps:
 2. create-react-app react-sql
 3. open project with your editor
 
-
+Start project with yarn/npm start
 
